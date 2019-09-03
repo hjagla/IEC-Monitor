@@ -16,4 +16,3 @@ Output will appear in the following format:
 (28 E0 3F )
 
 Command sequences are encased in brackets "()" and data will be after.
-
